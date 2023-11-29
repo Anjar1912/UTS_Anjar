@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_language">Ganti Bahasa?</string>
+    <string name="release">Release</string>
+    <string name="tombol_back">Back Button</string>
+</resources>
