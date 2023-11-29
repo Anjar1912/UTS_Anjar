@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">UTS Aryo Bimo</string>
+    <string name="switch_language">Switch Language?</string>
+    <string name="release">Rilis</string>
+    <string name="tombol_back">Tombol back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
